@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+# coursera-happy-rails
+Ruby on Rails: An Introduction
