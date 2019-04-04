@@ -63,6 +63,7 @@ end
 
 group :production do
   # Adds support for Capybara system testing and selenium driver
+  gem 'pg'
   gem 'rails_12factor'
 end
 
